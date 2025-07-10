@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "YT Music Lyrics Selector",
+    "description": "The name of the extension"
+  },
+  "extensionDescription": {
+    "message": "A simple extension that allows user to select the lyrics on YouTube Music",
+    "description": "The description of the extension"
+  }
+}

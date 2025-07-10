@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "YT Music Lyrics Selector",
+  "name": "__MSG_extensionName__",
   "version": "0.0.5",
-  "description": "A simple extension that allows user to select the lyrics on YouTube Music",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
   "icons": {
     "16": "public/icons/icon-16.png",
     "48": "public/icons/icon-48.png",
