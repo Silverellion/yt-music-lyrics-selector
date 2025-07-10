@@ -18,7 +18,6 @@ function makeLyricsSelectable() {
     if (lyricsElement) {
       if (lyricsElement instanceof HTMLElement) {
         lyricsElement.style.userSelect = "text";
-        lyricsElement.style.webkitUserSelect = "text";
         lyricsElement.style.cursor = "text";
       }
 
@@ -26,7 +25,6 @@ function makeLyricsSelectable() {
       childElements.forEach((element) => {
         if (element instanceof HTMLElement) {
           element.style.userSelect = "text";
-          element.style.webkitUserSelect = "text";
           element.style.cursor = "text";
         }
       });
