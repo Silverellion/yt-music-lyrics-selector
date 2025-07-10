@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "YT Music Lyrics Selector",
-  "version": "0.0.3",
-  "description": "Makes lyrics selectable on YouTube Music",
+  "version": "0.0.4",
+  "description": "A simple extension that allows user to select the lyrics on YouTube Music",
   "content_scripts": [
     {
       "matches": ["*://music.youtube.com/*"],
